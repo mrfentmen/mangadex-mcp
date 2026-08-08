@@ -1,14 +1,14 @@
-# mangadex-mcp
+# mangadex mcp
 
 Search the [MangaDex](https://mangadex.org) library (API v5). Free, no auth.
 
 ## Tools
 
-- `search_manga` — title, authors, year, status, tags, description
-- `get_manga` — full detail for a manga UUID
-- `list_chapters` — chapters with volumes, scanlation groups, page counts
-- `search_author` — find mangaka by name
-- `list_tags` — the full tag taxonomy (build search filters from it)
+- `search_manga`, title, authors, year, status, tags, description
+- `get_manga`, full detail for a manga UUID
+- `list_chapters`, chapters with volumes, scanlation groups, page counts
+- `search_author`, find mangaka by name
+- `list_tags`, the full tag taxonomy (build search filters from it)
 
 ## Run
 
